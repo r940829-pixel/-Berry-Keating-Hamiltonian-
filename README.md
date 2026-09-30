@@ -1,1 +1,1 @@
-# -Berry-Keating-Hamiltonian-
+# 優化Berry-Keating Hamiltonian的方法
