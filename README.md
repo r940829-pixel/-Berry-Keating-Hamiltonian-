@@ -1,7 +1,7 @@
 # 優化Berry-Keating Hamiltonian的方法
 
 ---
-[![DOI](https://zenodo.org/badge/1397884520.svg)](https://doi.org/10.5281/zenodo.23063486)
+
 ---
 
 ## (一) Berry-Keating 哈密頓量形式
