@@ -101,7 +101,7 @@ $$\hat{H} = -i\hbar \left( -\sin(2\theta) \frac{\partial}{\partial \theta} + \fr
 
 (4)
 
-將對時間（或複數變數）$\theta$ 的作用態向量進行頻域展開（傅立葉變換 Fourier Transform），並逐步推導其在頻域中的對應矩陣/算子表現與本徵方程。
+將對時間（或複數變數） $\theta$  的作用態向量進行頻域展開（傅立葉變換 Fourier Transform），並逐步推導其在頻域中的對應矩陣/算子表現與本徵方程。
 
 ### 一、 傅立葉變換的對映關係與算子替換規則
 
